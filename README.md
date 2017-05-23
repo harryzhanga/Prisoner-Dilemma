@@ -1,5 +1,7 @@
 # Prisoner-Dilemma
-The game where two prisoners try to get the best for themselves, but in doing so, fail to get the best for themselves ironically
+https://en.wikipedia.org/wiki/Prisoner%27s_dilemma
+The prisoner's dilemmna is a game where people with similar interests somehow end up getting in the way of each other.
+They both try to win but in doing so, fail to get the best for themselves ironically
 
 PrisonerTest.txt is just a sample output that is possible by this program
 
